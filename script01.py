@@ -1,1 +1,1 @@
-Scr
+print("hello world")
